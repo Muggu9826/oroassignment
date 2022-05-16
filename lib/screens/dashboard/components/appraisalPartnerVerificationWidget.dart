@@ -20,7 +20,7 @@ class _AppraisalPartnerVerificationWidgetState
     extends State<AppraisalPartnerVerificationWidget> {
   String buttonText = "Verify Appraisal Partner";
   int step = 0;
-
+//
   void setStepAndButtonText(
     state,
   ) {
